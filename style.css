@@ -79,7 +79,7 @@ span {
     font-size: x-large;
     list-style-type: none;
     position: absolute;
-    bottom: 490px;
+    bottom: 480px;
     left: 520px;
 }
 
@@ -94,11 +94,13 @@ a {
    
      
 }
-
-body {
-    background-color: black;
+.width{
     min-width:200px ;
     max-width: 1600px;
+}
+body {
+    background-color: black;
+   
 }
 
 .button>button {
